@@ -1,7 +1,7 @@
 # Computer Vision for Beginners - COMP4423 @ PolyU HK
 
 
-# The Lecture Videos (You can skip L1)
+# The Lecture and Tutorials (You can skip L1)
 
 ## L2 Play with the images
 * How Human/Computers see images
@@ -9,7 +9,9 @@
 * Play with the images (colors, sizes, rotations)
 * Examples from IMHere
 
-Link: https://youtu.be/scrAoh-L7KU
+Video Link: https://youtu.be/scrAoh-L7KU
+
+Tutorial Tasks (Google CoLab): [T1-Play.with.images-tasks.ipynb](lookwei/COMP4423/T1-Play.with.images-tasks.ipynb)
 
 ## L3 Deal with the content
 * Edge Filters and convolutions
