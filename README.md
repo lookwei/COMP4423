@@ -11,7 +11,7 @@
 
 Video Link: https://youtu.be/scrAoh-L7KU
 
-Tutorial Tasks (Google CoLab): [T1-Play.with.images-tasks.ipynb](lookwei/COMP4423/T1-Play.with.images-tasks.ipynb)
+Tutorial Tasks (Google CoLab): [T1-Play.with.images-tasks.ipynb](lookwei/COMP4423/blob/main/T1-Play.with.images-tasks.ipynb)
 
 ## L3 Deal with the content
 * Edge Filters and convolutions
