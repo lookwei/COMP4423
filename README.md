@@ -1,7 +1,7 @@
 # Computer Vision for Beginners - COMP4423 @ PolyU HK
 
 
-# The Lecture and Tutorials (You can skip L1)
+# The Lectures and Tutorials (You can skip L1)
 
 ## L2 Play with the images
 * How Human/Computers see images
