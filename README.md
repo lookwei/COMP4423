@@ -22,7 +22,7 @@ Image Lenna: [T2-lenna.png](T2-lenna.png)
 * Nose Reduction
 * Morphological Operations 
 
-Link: https://youtu.be/UVGG4ZFQWrw
+Video Link: https://youtu.be/UVGG4ZFQWrw
 
 Tutorial Tasks (Google CoLab): [T2-Play.with.content-tasks.ipynb](T2-Play.with.content-tasks.ipynb)
 
@@ -39,7 +39,7 @@ Image Lenna: [T2-lenna.png](T2-lenna.png)
 * Metrics (Distance and Similarity)
 * Global and Local Features (Color Histograms, LBP, SIFT)
 
-Link https://youtu.be/Fn1Hpt70K4g
+Video Link: https://youtu.be/Fn1Hpt70K4g
 
 Tutorial Answers (Google CoLab): [T3-Feature.extraction.answers.ipynb](T3-Feature.extraction.answers.ipynb)
 
@@ -49,7 +49,7 @@ Tutorial Answers (Google CoLab): [T3-Feature.extraction.answers.ipynb](T3-Featur
 * Content-based image retrieval (CBIR)
 * Bag of Visual Words (BoVW)
 
-Link：https://youtu.be/8wpput2O3-8
+Video Link：https://youtu.be/8wpput2O3-8
 
 Tutorial Tasks (Google CoLab): [T4-Image.retrieval-tasks.ipynb](T4-Image.retrieval-tasks.ipynb)
 
@@ -62,7 +62,7 @@ Tutorial Answers (Google CoLab): [T4-Image.retrieval-answers.ipynb](T4-Image.ret
 * Bayesian classifiers
 * Support vector machines (SVM)
 
-Link: https://youtu.be/bUwGY5sqZHU
+Video Link: https://youtu.be/bUwGY5sqZHU
 
 Tutorial Answers (Google CoLab): [T5-Image.classification-answers.ipynb](T5-Image.classification-answers.ipynb)
 
@@ -78,7 +78,7 @@ Tutorial Data: [T5-data.zip](T5-data.zip)
 * Layers, pooling, and activations
 * AlexNet, VGG, and ResNet
 
-Link: https://youtu.be/x4qUTtmvsTs
+Video Link: https://youtu.be/x4qUTtmvsTs
 
 Tutorial Tasks (Google CoLab): [T6-Machine.learning.Deep.learning-tasks.ipynb](T6-Machine.learning.Deep.learning-tasks.ipynb)
 
@@ -93,7 +93,7 @@ Tutorial Data: [T6-data.zip](T6-data.zip)
 * Fine tuning (Siamese/Triplet networks)
 * R-Mac, VLAD, BoVW
 
-Link: https://youtu.be/KGpmVOQ45QE
+Video Link: https://youtu.be/KGpmVOQ45QE
 
 Tutorial Answers (Google CoLab): [T7-Deep.image.retrieval-answers.ipynb](T7-Deep.image.retrieval-answers.ipynb)
 
@@ -105,7 +105,7 @@ L9 CAM, Attentions and Transformers
 * Attentions
 * Self-Attentions, and Transformers
 
-Link: https://youtu.be/IOE39P6KR8o
+Video Link: https://youtu.be/IOE39P6KR8o
 
 Tutorial Answers (Google CoLab): [T8-CAM.and.ViT-answers.ipynb](T8-CAM.and.ViT-answers.ipynb)
 
@@ -116,7 +116,7 @@ Tutorial Answers (Google CoLab): [T8-CAM.and.ViT-answers.ipynb](T8-CAM.and.ViT-a
 * UNet,
 * R-CNN, Fast-RCNN, Faster-RCNN, Mask-RCNN
 
-Link: https://youtu.be/uc-PLMtxisY
+Video Link: https://youtu.be/uc-PLMtxisY
 
 Tutorial Answers (Google CoLab): [T9-Detection.and.Segmentation-answers.ipynb](T9-Detection.and.Segmentation-answers.ipynb)
 
@@ -130,7 +130,7 @@ Tutorial Data: [T9-Images.zip](T9-Images.zip)
 * Generative networks (VAE, GAN)
 * Reinforcement learning
 
-Link: https://youtu.be/_jyfvaiB4g4
+Video Link: https://youtu.be/_jyfvaiB4g4
 
 Tutorial PyTorch and TSNE: [T10-Pytorch.and.TSNE.ipynb](T10-Pytorch.and.TSNE.ipynb)
 
