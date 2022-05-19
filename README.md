@@ -100,7 +100,7 @@ Tutorial Answers (Google CoLab): [T7-Deep.image.retrieval-answers.ipynb](T7-Deep
 Tutorial Data: [T7-data.zip](T7-data.zip)
 
 
-L9 CAM, Attentions and Transformers
+## L9 CAM, Attentions and Transformers
 * Class Activation Mapping (CAM)
 * Attentions
 * Self-Attentions, and Transformers
